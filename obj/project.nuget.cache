@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "dc5j0GH4tCc=",
+  "dgSpecHash": "kVybOSiDGJU=",
   "success": true,
   "projectFilePath": "D:\\University\\SWE40006 - Software Deployment\\DeploymentTask2\\SWE40006-Deployment-Task-2\\SWE40006-Deployment-Task-2.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\hlopk\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.30\\microsoft.netcore.app.ref.8.0.30.nupkg.sha512",
+    "C:\\Users\\hlopk\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.30\\microsoft.windowsdesktop.app.ref.8.0.30.nupkg.sha512",
+    "C:\\Users\\hlopk\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.30\\microsoft.aspnetcore.app.ref.8.0.30.nupkg.sha512",
+    "C:\\Users\\hlopk\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.30\\microsoft.netcore.app.host.win-x64.8.0.30.nupkg.sha512"
+  ],
   "logs": []
 }

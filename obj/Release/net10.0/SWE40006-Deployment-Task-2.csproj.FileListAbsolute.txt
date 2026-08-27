@@ -25,7 +25,6 @@ D:\University\SWE40006 - Software Deployment\DeploymentTask2\SWE40006-Deployment
 D:\University\SWE40006 - Software Deployment\DeploymentTask2\SWE40006-Deployment-Task-2\obj\Release\net10.0\rjsmcshtml.dswa.cache.json
 D:\University\SWE40006 - Software Deployment\DeploymentTask2\SWE40006-Deployment-Task-2\obj\Release\net10.0\scopedcss\bundle\SWE40006-Deployment-Task-2.styles.css
 D:\University\SWE40006 - Software Deployment\DeploymentTask2\SWE40006-Deployment-Task-2\obj\Release\net10.0\compressed\bbyykpyw4m-{0}-sltsvm1m9c-sltsvm1m9c.gz
-D:\University\SWE40006 - Software Deployment\DeploymentTask2\SWE40006-Deployment-Task-2\obj\Release\net10.0\compressed\j8jdn69qsv-{0}-9g9wmuzl74-9g9wmuzl74.gz
 D:\University\SWE40006 - Software Deployment\DeploymentTask2\SWE40006-Deployment-Task-2\obj\Release\net10.0\staticwebassets.build.json
 D:\University\SWE40006 - Software Deployment\DeploymentTask2\SWE40006-Deployment-Task-2\obj\Release\net10.0\staticwebassets.build.json.cache
 D:\University\SWE40006 - Software Deployment\DeploymentTask2\SWE40006-Deployment-Task-2\obj\Release\net10.0\staticwebassets.development.json
@@ -36,3 +35,4 @@ D:\University\SWE40006 - Software Deployment\DeploymentTask2\SWE40006-Deployment
 D:\University\SWE40006 - Software Deployment\DeploymentTask2\SWE40006-Deployment-Task-2\obj\Release\net10.0\SWE40006-Deployment-Task-2.pdb
 D:\University\SWE40006 - Software Deployment\DeploymentTask2\SWE40006-Deployment-Task-2\obj\Release\net10.0\SWE40006-Deployment-Task-2.genruntimeconfig.cache
 D:\University\SWE40006 - Software Deployment\DeploymentTask2\SWE40006-Deployment-Task-2\obj\Release\net10.0\ref\SWE40006-Deployment-Task-2.dll
+D:\University\SWE40006 - Software Deployment\DeploymentTask2\SWE40006-Deployment-Task-2\obj\Release\net10.0\compressed\j8jdn69qsv-{0}-zhjpxpmydh-zhjpxpmydh.gz

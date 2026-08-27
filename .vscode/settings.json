@@ -1,4 +1,4 @@
 {
     "appService.defaultWebAppToDeploy": "/subscriptions/4d7d81eb-fa0e-4ee6-ba81-2f43e4b56981/resourceGroups/deployment-task-2/providers/Microsoft.Web/sites/103517901-skating-db",
-    "appService.deploySubpath": "."
+    "appService.deploySubpath": "bin/Release/net10.0/publish"
 }

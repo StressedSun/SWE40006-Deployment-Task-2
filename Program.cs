@@ -13,9 +13,14 @@ app.UseStaticFiles();
 
 app.MapHealthChecks("/health");
 
-app.MapGet("/", (string? search, SkaterService service) =>
+app.MapGet("/", (string? search, SkaterService service, ILogger<Program> logger) =>
 {
     var skaters = service.Search(search);
+
+    logger.LogInformation(
+        "Skater search performed. Search term: {SearchTerm}",
+        search ?? "none"
+    );
 
     var rows = string.Join("", skaters.Select(s => $"""
         <tr>

@@ -1,7 +1,0 @@
-D:\University\SWE40006 - Software Deployment\DeploymentTask2\SWE40006-Deployment-Task-2\publish\SWE40006-Deployment-Task-2.exe
-D:\University\SWE40006 - Software Deployment\DeploymentTask2\SWE40006-Deployment-Task-2\publish\appsettings.Development.json
-D:\University\SWE40006 - Software Deployment\DeploymentTask2\SWE40006-Deployment-Task-2\publish\appsettings.json
-D:\University\SWE40006 - Software Deployment\DeploymentTask2\SWE40006-Deployment-Task-2\publish\SWE40006-Deployment-Task-2.dll
-D:\University\SWE40006 - Software Deployment\DeploymentTask2\SWE40006-Deployment-Task-2\publish\SWE40006-Deployment-Task-2.deps.json
-D:\University\SWE40006 - Software Deployment\DeploymentTask2\SWE40006-Deployment-Task-2\publish\SWE40006-Deployment-Task-2.runtimeconfig.json
-D:\University\SWE40006 - Software Deployment\DeploymentTask2\SWE40006-Deployment-Task-2\publish\SWE40006-Deployment-Task-2.pdb

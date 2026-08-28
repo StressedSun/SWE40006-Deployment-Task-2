@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\University\\SWE40006 - Software Deployment\\DeploymentTask2\\SWE40006-Deployment-Task-2\\SWE40006-Deployment-Task-2.csproj": {}
+    "D:\\University\\SWE40006 - Software Deployment\\DeploymentTask2\\SWE40006-Deployment-Task-2\\NetApp\\SWE40006-Deployment-Task-2.csproj": {}
   },
   "projects": {
-    "D:\\University\\SWE40006 - Software Deployment\\DeploymentTask2\\SWE40006-Deployment-Task-2\\SWE40006-Deployment-Task-2.csproj": {
+    "D:\\University\\SWE40006 - Software Deployment\\DeploymentTask2\\SWE40006-Deployment-Task-2\\NetApp\\SWE40006-Deployment-Task-2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\University\\SWE40006 - Software Deployment\\DeploymentTask2\\SWE40006-Deployment-Task-2\\SWE40006-Deployment-Task-2.csproj",
+        "projectUniqueName": "D:\\University\\SWE40006 - Software Deployment\\DeploymentTask2\\SWE40006-Deployment-Task-2\\NetApp\\SWE40006-Deployment-Task-2.csproj",
         "projectName": "SWE40006-Deployment-Task-2",
-        "projectPath": "D:\\University\\SWE40006 - Software Deployment\\DeploymentTask2\\SWE40006-Deployment-Task-2\\SWE40006-Deployment-Task-2.csproj",
+        "projectPath": "D:\\University\\SWE40006 - Software Deployment\\DeploymentTask2\\SWE40006-Deployment-Task-2\\NetApp\\SWE40006-Deployment-Task-2.csproj",
         "packagesPath": "C:\\Users\\hlopk\\.nuget\\packages\\",
-        "outputPath": "D:\\University\\SWE40006 - Software Deployment\\DeploymentTask2\\SWE40006-Deployment-Task-2\\obj\\",
+        "outputPath": "D:\\University\\SWE40006 - Software Deployment\\DeploymentTask2\\SWE40006-Deployment-Task-2\\NetApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hlopk\\AppData\\Roaming\\NuGet\\NuGet.Config"

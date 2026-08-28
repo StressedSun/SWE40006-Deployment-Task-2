@@ -6,9 +6,12 @@ var appTitle = builder.Configuration["APP_TITLE"]
 
 builder.Services.AddSingleton<SkaterService>();
 
+builder.Services.AddHealthChecks();
 var app = builder.Build();
 
 app.UseStaticFiles();
+
+app.MapHealthChecks("/health");
 
 app.MapGet("/", (string? search, SkaterService service) =>
 {

@@ -1,6 +1,8 @@
 using SWE40006_Deployment_Task_2.Services;
 
 var builder = WebApplication.CreateBuilder(args);
+var appTitle = builder.Configuration["APP_TITLE"]
+            ?? "Figure Skating Database"; // this line is redundant, used for testing
 
 builder.Services.AddSingleton<SkaterService>();
 
@@ -33,7 +35,7 @@ app.MapGet("/", (string? search, SkaterService service) =>
 
     <body>
         <main>
-            <h1>Figure Skating Database</h1>
+            <h1>{{appTitle}}</h1>
 
             <p>
                 Search figure skaters by name, country or discipline.
